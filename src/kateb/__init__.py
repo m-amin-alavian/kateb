@@ -1,1 +1,2 @@
-from web_table import WebTableExtractor
+
+__version__ = '0.0.4'
