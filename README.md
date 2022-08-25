@@ -1,3 +1,3 @@
 # Kateb Project
 
-A Simple Tool for Extracting tables from Webpages
+A Simple Tool for Extracting Tables from Webpages
